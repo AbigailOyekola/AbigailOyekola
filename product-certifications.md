@@ -78,7 +78,7 @@ Through these certifications, I have demonstrated proficiency in:
 ### 🔗 Additional Resources
 
 - [Product School Official Website](https://productschool.com/)
-- [Google Product Management Certification Path](https://productschool.com/google-product-management)
+- [Google Product Management Certification Path](https://drive.google.com/drive/folders/1f_jgCI3abxJuPQqwsejfa1IgriBKtGbB?usp=sharing)
 - [My LinkedIn Certifications Section](https://www.linkedin.com/in/abigail-oyekola/details/certifications/)
 
 ---
