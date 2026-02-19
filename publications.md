@@ -6,7 +6,7 @@
 ## 📚 Selected Publications
 
 **A. O. Oyekola**, I. Ahmed, and D. B. Rawat. "Autoencoder-Based Gaussianity for Low Probability of Intercept Detection in Terahertz Communications." In *MILCOM 2025 - 2025 IEEE Military Communications Conference*, pp. 311-316. IEEE, 2025.
-[🔗 IEEE Xplore](https://ieeexplore.ieee.org/document/XXXXXXXX) | [🔗 DOI](https://doi.org/XXXXXXXX) | [📄 Paper PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=XXXXXXXX) | [📊 Dataset/Code](link-to-your-code) | [📋 Cite](link-to-citation)
+[🔗 IEEE Xplore](https://ieeexplore.ieee.org/document/11310460) | [🔗 DOI](https://doi.org/10.1109/MILCOM64451.2025.11310460) | [📄 Paper PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=XXXXXXXX) | [📊 Dataset/Code](link-to-your-code) | [📋 Cite](link-to-citation)
 
 **A. O. Oyekola**, I. Ahmed, D. B. Rawat, R. Annavajjala, and S. Shetty. "Data-Driven Joint Demodulation and Decoding in THz Communication Systems." In *2024 International Conference on Computing, Networking and Communications (ICNC)*, pp. 978-983. IEEE, 2024.
 [🔗 IEEE Xplore](https://ieeexplore.ieee.org/document/10556373) | [🔗 DOI](https://doi.org/10.1109/ICNC59896.2024.10556373) | [📄 Paper PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10556373) | [📊 Dataset/Code](link-to-your-code) | [📋 Cite](link-to-citation)
