@@ -82,6 +82,7 @@
 
 ### 🎓 Academic Recognition
 - Bouchet Graduate Honor Society Inductions – Howard University
+- Bouchet Graduate Honor Society Inductions – Yale University
 - Graduate School Features: "What's Trending" & "The Sway"
 
 ### 🌟 Policy Leadership
