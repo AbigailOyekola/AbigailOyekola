@@ -21,14 +21,14 @@ permalink: /media/
 
 | Publication | Title | Link |
 |-------------|-------|------|
-| 🌟 Policy Primer | "Introducing the Spring 2025 Policy Primer Cohort" | [View Article](#) |
-| 🎉 Cohort Announcement | "We are thrilled to announce the Spring 2025 Policy Primer cohort" | [View Article](#) |
-| 🏙️ Smart Cities | "Smart Commutes, Smarter Cities: A Government and Business Partnership" | [View Article](#) |
-| 🌆 Smart Cities | "Smart Commutes, Smarter Cities" | [View Article](#) |
-| 📋 Policy Brief | "Smart Commutes, Smarter Cities: Policy Brief" | [View Article](#) |
-| 📊 Operational Plan | "Smart Commutes, Smarter Cities: Operational Plan" | [View Article](#) |
-| 📝 Executive Summary | "Smart Commutes, Smarter Cities: Executive Summary" | [View Article](#) |
-| 🛠️ Traffic Management | "Smart Commutes, Smarter Cities: Traffic Management Tool Information" | [View Article](#) |
+| 🌟 Policy Primer | "Introducing the Spring 2025 Policy Primer Cohort" | [View Article](https://aspenpolicyacademy.org/news/introducing-the-spring-2025-policy-primer-cohort/) |
+| 🎉 Cohort Announcement | "We are thrilled to announce the Spring 2025 Policy Primer cohort" | [View Article](https://aspenpolicyacademy.org/people/?order=Date%20(Newest%20First)&category=68&structure=block) |
+| 🏙️ Smart Cities | "Smart Commutes, Smarter Cities: A Government and Business Partnership" | [View Article](https://aspenpolicyacademy.org/resource/smart-commutes-smarter-cities-a-government-and-business-partnership/) |
+| 🌆 Smart Cities | "Smart Commutes, Smarter Cities" | [View Article](https://aspenpolicyacademy.org/project/smart-commutes-smarter-cities-a-government-and-business-partnership/) |
+| 📋 Policy Brief | "Smart Commutes, Smarter Cities: Policy Brief" | [View Article](https://aspenpolicyacademy.org/wp-content/uploads/Utah-Commutes-Memo-2025.pdf) |
+| 📊 Operational Plan | "Smart Commutes, Smarter Cities: Operational Plan" | [View Article](https://aspenpolicyacademy.org/wp-content/uploads/Utah-Commutes-Operational-Plan-2025.pdf) |
+| 📝 Executive Summary | "Smart Commutes, Smarter Cities: Executive Summary" | [View Article](https://aspenpolicyacademy.org/wp-content/uploads/Utah-Coyotes-Executive-Summary-2025.pdf) |
+| 🛠️ Traffic Management | "Smart Commutes, Smarter Cities: Traffic Management Tool Information" | [View Article](https://aspenpolicyacademy.org/wp-content/uploads/Utah-Traffic-Management-Tool-2025-Primer.pdf) |
 
 ## 📸 Media Gallery
 
