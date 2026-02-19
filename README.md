@@ -122,7 +122,7 @@ My research focuses on next-generation wireless communication systems, particula
 - 🆔: [ORCHID](https://orcid.org/0009-0000-7234-5209)
 
 <p align="center">
-<a href="mailto:abiolubunmi@gmail.com"><img src="https://img.shields.io/badge/Email-abiolubunmi@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="mailto:abiolubunmi@gmail.com"><img src="https://img.shields.io/badge/Email-AbigailOyekola-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
 <a href="https://www.researchgate.net/profile/Abigail_Oyekola2"><img src="https://img.shields.io/badge/ResearchGate-Profile-green?style=for-the-badge&logo=researchgate" alt="ResearchGate"></a>
 <a href="https://www.linkedin.com/in/abigail-oyekola/"><img src="https://img.shields.io/badge/LinkedIn-AbigailOyekola-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/AbigailOyekola"><img src="https://img.shields.io/badge/GitHub-AbigailOyekola-black?style=for-the-badge&logo=github" alt="GitHub"></a>
