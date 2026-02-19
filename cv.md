@@ -239,6 +239,7 @@
 
 ## Honors & Awards
 
+- Howard University Travel Award for MILCOM 2025 Conference, 2025
 - National Bouchet Graduate Honor Society (BGHS) Lifetime Membership Award – Yale University, 2025
 - Te Ara Auaha - Faculty of Design and Creative Technologies Dean's Award for Excellence in Postgraduate Study, 2020
 - AUT EDGE Award, 2019
