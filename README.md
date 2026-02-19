@@ -143,7 +143,7 @@ To bridge advanced engineering research, product innovation, and sustainable tec
 ---
 
 ## 📚 Publications
-- [View my teaching portfolio →](https://github.com/AbigailOyekola/AbigailOyekola/blob/main/publications.md)
+- [View my publication portfolio →](https://github.com/AbigailOyekola/AbigailOyekola/blob/main/publications.md)
 
 ---
   
@@ -153,5 +153,10 @@ To bridge advanced engineering research, product innovation, and sustainable tec
 ---
   
 ## 📄 Resume/CV
-- [View my teaching portfolio →](https://github.com/AbigailOyekola/AbigailOyekola/blob/main/cv.md)
+- [View my resume/cv portfolio →](https://github.com/AbigailOyekola/AbigailOyekola/blob/main/cv.md)
+
+---
+  
+## 📄 Product Certifications & Toastmaster International
+- [View my product certifications portfolio →](https://github.com/AbigailOyekola/AbigailOyekola/blob/main/product-certifications.md)
 
