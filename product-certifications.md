@@ -13,6 +13,8 @@
 | 🤖 **Artificial Intelligence Micro-Certification (AIC)** | AI for Product Managers |
 | 📊 **Product Analytics Micro-Certification (PAC)** | Product Analytics |
 
+---
+
 ### 📋 Certification Details
 
 #### Product Discovery Micro-Certification (PDC)
@@ -57,6 +59,8 @@
 - User behavior tracking
 - Conversion funnel optimization
 
+---
+
 ### 🏆 Skills Demonstrated
 
 Through these certifications, I have demonstrated proficiency in:
@@ -68,6 +72,8 @@ Through these certifications, I have demonstrated proficiency in:
 | **Data-Driven Decision Making** | Experimentation, analytics, prioritization frameworks |
 | **Technical Integration** | AI/ML product features, ethical AI implementation |
 | **Cross-Functional Leadership** | Stakeholder management, team alignment, communication |
+
+---
 
 ### 🔗 Additional Resources
 
