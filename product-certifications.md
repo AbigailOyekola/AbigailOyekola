@@ -75,6 +75,12 @@ Through these certifications, I have demonstrated proficiency in:
 
 ---
 
+#### Toastmasters International
+- Toastmasters International: Dynamic Leadership Pathway
+- Toastmasters International: Visionary Communication Pathways
+
+---
+
 ### 🔗 Additional Resources
 
 - [Product School Official Website](https://productschool.com/)
