@@ -39,6 +39,7 @@
   - Trained DL-assisted DeNMC models offline across a wide range of SNRs and deployed them online for real-time processing
   - Demonstrated 25% improvement in bit error rate performance under noisy and adversarial channel conditions with lower computational complexity
   - **Outcome:** Published in IEEE ICNC 2024
+  - *Advisor:* Prof. Imtiaz Ahmed
 
   **Project 2: Autoencoder-Based Gaussianity for Low Probability of Intercept Detection in THz Systems** *2023–2024*
   - Developed a data-driven autoencoder simulation framework for end-to-end THz band communication systems
@@ -46,6 +47,7 @@
   - Analyzed impact of transmit signal probability distribution function (PDF) on LPID performance
   - Investigated preservation of transmit signal Gaussianity in AI-designed transceivers and its effect on security and spectral efficiency
   - **Outcome:** Published in IEEE MILCOM 2025
+  - *Advisor:* Prof. Imtiaz Ahmed
 
   **Project 3: Deep Investigation on the Impact of Phase Noise (PN) in THz Band Communications** *2024–2026*
   - Conducted comparative study of neural network architectures for mitigating THz-band impairments (phase noise, carrier frequency offset)
@@ -55,6 +57,7 @@
   - Extended DeNMC framework to jointly handle equalization, denoising, demodulation, and decoding (EqDeNMC)
   - Evaluated receiver diversity techniques (Rake receivers, delay diversity combining) in single-carrier systems
   - Analyzed ZF and MMSE equalization methods for noise suppression in THz links
+  - *Advisor:* Prof. Imtiaz Ahmed
 
   **Experimental Testbed Lead, Wireless Research Laboratory, Howard University** *2025–2026*
   - **Project:** Experimental Testbed Development for 96GHz Sub-THz Wireless Communications
@@ -63,6 +66,7 @@
   - Acquired and processed real-world data using USRP and analog RF instrumentation
   - Analyzed OFDM channel characteristics: RMS delay spread, Doppler spread, coherence time/bandwidth, PDP, CFR, CIR
   - Quantified time dispersion parameters and validated system performance against baseline simulation models
+  - *Advisor:* Prof. Imtiaz Ahmed
 
 - **Graduate Research Assistant**  
   Auckland University of Technology, Auckland, New Zealand  
@@ -86,6 +90,7 @@
   - Created Python test scripts to validate sensor accuracy and SMS alert reliability
   - Tools: PCB design, soldering, Arduino, GSM module, breadboard, op-amps, DC-DC converters
   - **Outcome:** Published in International Journal of Innovative Technology and Exploring Engineering, 2019
+  - *Supervisor:* Prof. Titilayo Kuku
 
 ## 📋 Teaching Experience
 
