@@ -162,6 +162,6 @@ To bridge advanced engineering research, product innovation, and sustainable tec
 
 ---
   
-## 📰 Product Certifications & Toastmaster International
+## 📰📸 Product Certifications & Toastmaster International
 - [View my media portfolio →](https://github.com/AbigailOyekola/AbigailOyekola/blob/main/media.md)
 
