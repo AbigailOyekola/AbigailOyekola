@@ -1,5 +1,17 @@
 ## 🎓 Teaching Experience
 
+** Location: ** Washington, D.C., USA
+
+** Venue: ** Howard University - Department of Electrical Engineering and Computer Science (EECS)
+
+** Dates: ** Fall 2023 to Spring 2024
+
+** Role: ** Graduate Teaching Assistant
+
+** Courses Taught: **
+
+---
+
 **Graduate Teaching Assistant** | Howard University, Washington, DC | 2023 – 2024
 
 | Course Code | Course Title | Enrollment | Role |
