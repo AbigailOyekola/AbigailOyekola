@@ -116,8 +116,8 @@ My research focuses on next-generation wireless communication systems, particula
 ## 📫 Let's Connect
 - Email: abiolubunmi@gmail.com; Abigail.Oyekola@bison.howard.edu  
 
-- ✉️: [Email](abiolubunmi@gmail.com)
-- 📧: [Email](Abigail.Oyekola@bison.howard.edu)
+- ✉️: [Email](mailto:abiolubunmi@gmail.com)
+- 📧: [Email](mailto:Abigail.Oyekola@bison.howard.edu)
 - 🔗: [linkedin](https://www.linkedin.com/in/abigail-oyekola/)
 - 🐙: [Github](https://github.com/AbigailOyekola)
 - 🎓: [Google-Scholar](https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en)
