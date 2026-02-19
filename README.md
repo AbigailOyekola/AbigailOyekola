@@ -136,9 +136,13 @@ My research focuses on next-generation wireless communication systems, particula
 To bridge advanced engineering research, product innovation, and sustainable technologies by developing scalable solutions in wireless communications, renewable energy, and intelligent systems that create measurable societal, economical, and technological impact.
 
 
-## Publications & Projects
+## Projects
 (You can add links later)
 
+## 📚 Publications
+- [View my teaching portfolio →](https://github.com/AbigailOyekola/AbigailOyekola/blob/main/publications.md)
+
+- 
 ## 🎓 Teaching
 - [View my teaching portfolio →](https://github.com/AbigailOyekola/AbigailOyekola/blob/main/teaching.md)
 
