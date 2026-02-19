@@ -35,7 +35,5 @@ C. Egbon, **A. Oyekola**, and T.-T. Lie. "Design of Stand Alone Photovoltaic Sys
 **A. O. Oyekola**, I. Ahmed, A. F. Molisch, and D. B. Rawat. "Neural Architectural Comparison and the Efficacy of BiLSTM for Signal Recovery in THz Wireless Systems." In *MILCOM 2026 - 2026 IEEE Military Communications Conference*, pp. xxx-xxx. IEEE, 2026. *(In Preparation)*
 [🔗 IEEE Xplore](link-to-forthcoming) | [🔗 DOI](link-to-forthcoming-doi) | [📄 Preprint](link-to-preprint) | [📊 Dataset/Code](link-to-your-code) | [📋 Cite](link-to-citation)
 
-**A. O. Oyekola**, I. Ahmed, and D. B. Rawat. "Autoencoder-Based Gaussianity for Low Probability of Intercept Detection in Terahertz Communications." In *MILCOM 2025 - 2025 IEEE Military Communications Conference*, pp. 311-316. IEEE, 2025. *(Forthcoming)*
-[🔗 IEEE Xplore](https://ieeexplore.ieee.org/document/XXXXXXXX) | [🔗 DOI](https://doi.org/XXXXXXXX) | [📄 Preprint](link-to-preprint) | [📊 Dataset/Code](link-to-your-code) | [📋 Cite](link-to-citation)
 
 
