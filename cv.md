@@ -189,7 +189,7 @@
 
 **Programming & Simulation**
 - *Languages:* Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch), MATLAB, Simulink, C++, SQL
-- *Environments:* LTspice, LabView, Jupyter, Wireshark, Overleaf, Linux server environments
+- *Environments:* LTspice, LabView, Jupyter Notebook, Wireshark, Overleaf, Linux server environments, Salesforce, Microsoft Office Suite
 
 **Hardware & Testbeds**
 - *RF & Test Equipment:* USRP, SDRs, oscilloscopes, spectrum analyzers, signal generators
@@ -199,7 +199,7 @@
 ## Professional Service
 
 **Peer Reviewer (EDAS Conference & Journals)** | *2024 – Present*
-- MILCOM 2023 Track 1 - Waveforms and Signal Processing (1 review)
+- MILCOM 2023 Track 1 - Waveforms and Signal Processing (1)
 - 2024 IEEE ICC: SAC Aerial Communications Track (1)
 - WS02 IEEE ICC 2024 Workshop on Emerging Technologies in Aerial and Space Networks (1)
 - 2024 IEEE WiSEE (1)
