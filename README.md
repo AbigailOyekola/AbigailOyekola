@@ -132,12 +132,12 @@ social:
   - icon: orcid
     link: [ORCHID](orcid.org/my-orcid?orcid=0009-0000-7234-5209)
 
-  - ✉️: [Primary Email](abiolubunmi@gmail.com);
+  - ✉️: [Primary Email](abiolubunmi@gmail.com)
   - 📧: [Secondary Email](Abigail.Oyekola@bison.howard.edu)
   - 🔗: [linkedin](https://www.linkedin.com/in/abigail-oyekola/)
   - 🐙: [Github](https://github.com/AbigailOyekola)
   - 🎓: [Google-Scholar](https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en)
-  - 🆔: [ORCHID](orcid.org/my-orcid?orcid=0009-0000-7234-5209)
+  - 🆔: [ORCHID](https://orcid.org/0009-0000-7234-5209)
     
 ---
 
