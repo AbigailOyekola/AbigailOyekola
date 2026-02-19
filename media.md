@@ -2,6 +2,8 @@
 
 ## 2025 Features
 
+---
+
 ### Howard University Graduate School
 
 | Publication | Title | Link |
