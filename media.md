@@ -12,10 +12,10 @@ permalink: /media/
 
 | Publication | Title | Link |
 |-------------|-------|------|
-| 📢 What's Trending | "What's Trending | The Graduate School" | [View Article](#) |
-| 📰 The Sway | "The Sway | September 2025" | [View Article](#) |
-| 🏆 Bouchet Honor Society | "Ten Howard University Ph.D. Students Inducted into Bouchet Graduate Honor Society" | [View Article](#) |
-| 🎓 Bouchet Honor Society | "Edward A. Bouchet Graduate Honor Society" | [View Article](#) |
+| 📢 What's Trending | "What's Trending | The Graduate School" | [View Article](https://gs.howard.edu/index.php/sway/sept2025_6) |
+| 📰 The Sway | "The Sway | September 2025" | [View Article](https://gs.howard.edu/sway/sept2025) |
+| 🏆 Bouchet Honor Society | "Ten Howard University Ph.D. Students Inducted into Bouchet Graduate Honor Society" | [View Article](https://gs.howard.edu/graduate-life/edward-bouchet-graduate-honor-society/2025-bghs-inductees) |
+| 🎓 Bouchet Honor Society | "Edward A. Bouchet Graduate Honor Society" | [View Article](https://gs.howard.edu/graduate-life/edward-bouchet-graduate-honor-society/2025-bghs-inductees) |
 
 ### Aspen Policy Academy – Aspen Institute
 
