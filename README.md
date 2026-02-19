@@ -139,4 +139,7 @@ To bridge advanced engineering research, product innovation, and sustainable tec
 ## Publications & Projects
 (You can add links later)
 
+## 🎓 Teaching
+- [View my teaching portfolio →](https://github.com/your-username/teaching-portfolio)
 
+- 
