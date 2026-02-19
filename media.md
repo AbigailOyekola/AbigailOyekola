@@ -96,7 +96,7 @@
 |--------|-------|------|
 | [Howard University Graduate School](https://graduate.howard.edu/) | Bouchet Honor Society | Academic Recognition |
 | [Aspen Policy Academy](https://www.aspeninstitute.org/) | Smart Cities Initiative | Policy Research |
-| [Aspen Institute](https://www.aspeninstitute.org/) | Policy Primer Cohort | Leadership Program |
+| [Aspen Institute](https://www.aspeninstitute.org/) | Policy Primer Cohort | Policy, Advocacy, & Leadership Program |
 
 ---
 
