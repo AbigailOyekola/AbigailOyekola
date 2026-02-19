@@ -1,10 +1,3 @@
----
-layout: page
-title: "Publications"
-permalink: /publications/
----
-
-
 ## 📚 Selected Publications
 
 **A. Oyekola**, T. T. Lie and A. Taylor. "Decentralized PV Distributed Generation Integrated with Blockchain Technology: A Case Study in Lagos." *2022 International Conference on Technology and Policy in Energy and Electric Power (ICT-PEP)*, Jakarta, Indonesia, 2022, pp. 25-30. 
