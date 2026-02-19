@@ -39,7 +39,7 @@
     <h3>🎓 Bouchet Graduate Honor Society</h3>
     <p>Ten Howard University Ph.D. Students Inducted into Bouchet Graduate Honor Society</p>
     <p><em>Howard University Graduate School, 2025</em></p>
-    <a href="#" style="background: #2ea44f; color: white; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Read More →</a>
+    <a href="#" style="background: #2ea44f; color: white; padding: 8px 16px; text-decoration: none; border-radius: 6px;">Read More →</https://gs.howard.edu/graduate-life/edward-bouchet-graduate-honor-society/2025-bghs-inductees>
   </div>
   
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; width: calc(50% - 10px);">
