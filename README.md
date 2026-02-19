@@ -121,7 +121,8 @@ My research focuses on next-generation wireless communication systems, particula
 
 social:
   - icon: envelope
-    link: mailto:abiolubunmi@gmail.com; Abigail.Oyekola@bison.howard.edu
+    link: [Primary Email](abiolubunmi@gmail.com);
+    link: [Secondary Email](Abigail.Oyekola@bison.howard.edu)
   - icon: [linkedin](https://www.linkedin.com/in/abigail-oyekola/)
     link: https://linkedin.com/in/YOUR-LINKEDIN
   - icon: github
@@ -131,7 +132,13 @@ social:
   - icon: orcid
     link: [ORCHID](orcid.org/my-orcid?orcid=0009-0000-7234-5209)
 
-
+  - ✉️: [Primary Email](abiolubunmi@gmail.com);
+  - 📧: [Secondary Email](Abigail.Oyekola@bison.howard.edu)
+  - 🔗: [linkedin](https://www.linkedin.com/in/abigail-oyekola/)
+  - 🐙: [Github](https://github.com/AbigailOyekola)
+  - 🎓: [Google-Scholar](https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en)
+  - 🆔: [ORCHID](orcid.org/my-orcid?orcid=0009-0000-7234-5209)
+    
 ---
 
 ## 💡 Personal Mission
