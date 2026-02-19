@@ -73,7 +73,7 @@
 ## 📊 Media Highlights by Category
 
 ### 🏛️ Policy & Urban Innovation
-- *Smart Commutes, Smarter Cities* Series (8 publications) – Aspen Policy Academy
+- *Smart Commutes, Smarter Cities* Series for the State of Utah (8 publications) – Aspen Policy Academy
   - Government and Business Partnership
   - Policy Brief
   - Operational Plan
@@ -95,7 +95,7 @@
 | Source | Topic | Type |
 |--------|-------|------|
 | [Howard University Graduate School](https://graduate.howard.edu/) | Bouchet Honor Society | Academic Recognition |
-| [Aspen Policy Academy](https://www.aspeninstitute.org/) | Smart Cities Initiative | Policy Research |
+| [Aspen Policy Academy](https://www.aspeninstitute.org/) | Smart Cities Initiative for the State of Utah | Policy Research |
 | [Aspen Institute](https://www.aspeninstitute.org/) | Policy Primer Cohort | Policy, Advocacy, & Leadership Program |
 
 ---
