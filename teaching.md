@@ -5,9 +5,9 @@
 | Course Code | Course Title | Enrollment | Role |
 |-------------|--------------|------------|------|
 | EECE 212 | Fundamentals of Digital Systems (Lecture) | ≈60 students/semester | Class Teaching Assistant, Exam Designer |
-| EECE 218 | Fundamentals of Digital Systems Lab | ≈60 students/semester | Laboratory Instructor, Curriculum Developer |
-| EECE 326 | Fundamentals of Energy Systems Lab | ≈25 students/semester | Laboratory Instructor, Curriculum Developer |
-| EECE 2029 | Fundamentals of Circuit Theory Lab | ≈45 students/semester | Laboratory Instructor, Curriculum Developer |
+| EECE 218 | Fundamentals of Digital Systems Lab | ≈60 students/semester | Teaching Assistant, Laboratory Instructor, Curriculum Developer |
+| EECE 326 | Fundamentals of Energy Systems Lab | ≈25 students/semester | Teaching Assistant, Laboratory Instructor, Curriculum Developer |
+| EECE 2029 | Fundamentals of Circuit Theory Lab | ≈45 students/semester | Teaching Assistant, Laboratory Instructor, Curriculum Developer |
 
 ### 📋 Teaching Contributions
 
