@@ -17,6 +17,7 @@ P. Oyekola, T. Oyewo, **A. Oyekola**, and A. Mohamed. "Arduino based smart home 
 C. Egbon, **A. Oyekola**, and T.-T. Lie. "Design of Stand Alone Photovoltaic System in Developing Countries: A Case Study of Kano, Nigeria." In *2018 Australasian Universities Power Engineering Conference (AUPEC)*, pp. 1-6. IEEE, 2018.
 [🔗 IEEE Xplore](https://ieeexplore.ieee.org/document/8757895) | [🔗 DOI](https://doi.org/10.1109/AUPEC.2018.8757895) | [📄 Paper PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8757895) | [📊 Dataset/Code](link-to-your-code) | [📋 Cite](link-to-citation)
 
+---
 
 ### Submitted and In-Preparation
 
