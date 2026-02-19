@@ -116,36 +116,22 @@ My research focuses on next-generation wireless communication systems, particula
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/abigail-oyekola/  
 - Email: abiolubunmi@gmail.com; Abigail.Oyekola@bison.howard.edu  
-- GitHub: https://github.com/AbigailOyekola
-- Google Scholar: https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en
 
-social:
-  - icon: envelope
-    link: [Primary Email](abiolubunmi@gmail.com);
-    link: [Secondary Email](Abigail.Oyekola@bison.howard.edu)
-  - icon: [linkedin](https://www.linkedin.com/in/abigail-oyekola/)
-    link: https://linkedin.com/in/YOUR-LINKEDIN
-  - icon: github
-    link: [Github](https://github.com/AbigailOyekola)
-  - icon: google-scholar
-    link: [Google-Scholar](https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en)
-  - icon: orcid
-    link: [ORCHID](orcid.org/my-orcid?orcid=0009-0000-7234-5209)
 
-  - ✉️: [Email](abiolubunmi@gmail.com)
-  - 📧: [Email](Abigail.Oyekola@bison.howard.edu)
-  - 🔗: [linkedin](https://www.linkedin.com/in/abigail-oyekola/)
-  - 🐙: [Github](https://github.com/AbigailOyekola)
-  - 🎓: [Google-Scholar](https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en)
-  - 🆔: [ORCHID](https://orcid.org/0009-0000-7234-5209)
+- ✉️: [Email](abiolubunmi@gmail.com)
+- 📧: [Email](Abigail.Oyekola@bison.howard.edu)
+- 🔗: [linkedin](https://www.linkedin.com/in/abigail-oyekola/)
+- 🐙: [Github](https://github.com/AbigailOyekola)
+- 🎓: [Google-Scholar](https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en)
+- 🆔: [ORCHID](https://orcid.org/0009-0000-7234-5209)
 
-  <p align="center">
-  <a href="mailto:abiolubunmi@gmail.com"><img src="https://img.shields.io/badge/Email-abiolubunmi@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.researchgate.net/profile/Abigail_Oyekola2"><img src="https://img.shields.io/badge/ResearchGate-Profile-green?style=for-the-badge&logo=researchgate" alt="ResearchGate"></a>
-  <a href="https://www.linkedin.com/in/abigail-oyekola/"><img src="https://img.shields.io/badge/LinkedIn-AbigailOyekola-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/AbigailOyekola"><img src="https://img.shields.io/badge/GitHub-AbigailOyekola-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-AbigailOyekola-blue?style=for-the-badge&logo=google-scholar" alt="Google Scholar"></a>
-  <a href="https://orcid.org/my-orcid?orcid=0009-0000-7234-5209"><img src="https://img.shields.io/badge/ORCID-AbigailOyekola-green?style=for-the-badge&logo=orcid" alt="ORCID"></a>
+<p align="center">
+<a href="mailto:abiolubunmi@gmail.com"><img src="https://img.shields.io/badge/Email-abiolubunmi@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="https://www.researchgate.net/profile/Abigail_Oyekola2"><img src="https://img.shields.io/badge/ResearchGate-Profile-green?style=for-the-badge&logo=researchgate" alt="ResearchGate"></a>
+<a href="https://www.linkedin.com/in/abigail-oyekola/"><img src="https://img.shields.io/badge/LinkedIn-AbigailOyekola-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://github.com/AbigailOyekola"><img src="https://img.shields.io/badge/GitHub-AbigailOyekola-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-AbigailOyekola-blue?style=for-the-badge&logo=google-scholar" alt="Google Scholar"></a>
+<a href="https://orcid.org/my-orcid?orcid=0009-0000-7234-5209"><img src="https://img.shields.io/badge/ORCID-AbigailOyekola-green?style=for-the-badge&logo=orcid" alt="ORCID"></a>
 </p>
 
 ---
