@@ -75,7 +75,7 @@ Through these certifications, I have demonstrated proficiency in:
 
 ---
 
-#### Toastmasters International
+## 🎤 Toastmasters International
 - Toastmasters International: Dynamic Leadership Pathway
 - Toastmasters International: Visionary Communication Pathways
 
