@@ -140,6 +140,8 @@ To bridge advanced engineering research, product innovation, and sustainable tec
 ## Projects
 (You can add links later)
 
+---
+
 ## 📚 Publications
 - [View my teaching portfolio →](https://github.com/AbigailOyekola/AbigailOyekola/blob/main/publications.md)
 
