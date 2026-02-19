@@ -125,11 +125,11 @@ social:
   - icon: [linkedin](https://www.linkedin.com/in/abigail-oyekola/)
     link: https://linkedin.com/in/YOUR-LINKEDIN
   - icon: github
-    link: [https://github.com/abigailoyekola](https://github.com/AbigailOyekola)
+    link: [Github](https://github.com/AbigailOyekola)
   - icon: google-scholar
-    link: [https://scholar.google.com/](https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en)
+    link: [Google-Scholar](https://scholar.google.com/citations?user=3DLHoX0AAAAJ&hl=en)
   - icon: orcid
-    link: orcid.org/my-orcid?orcid=0009-0000-7234-5209
+    link: [ORCHID](orcid.org/my-orcid?orcid=0009-0000-7234-5209)
 
 
 ---
