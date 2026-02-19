@@ -1,9 +1,3 @@
----
-layout: page
-title: Media Highlights
-permalink: /media/
----
-
 # 📰 Media Highlights
 
 ## 2025 Features
@@ -17,6 +11,8 @@ permalink: /media/
 | 🏆 Bouchet Honor Society | "Ten Howard University Ph.D. Students Inducted into Bouchet Graduate Honor Society" | [View Article](https://gs.howard.edu/graduate-life/edward-bouchet-graduate-honor-society/2025-bghs-inductees) |
 | 🎓 Bouchet Honor Society | "Edward A. Bouchet Graduate Honor Society" | [View Article](https://gs.howard.edu/graduate-life/edward-bouchet-graduate-honor-society/2025-bghs-inductees) |
 
+---
+
 ### Aspen Policy Academy – Aspen Institute
 
 | Publication | Title | Link |
@@ -29,6 +25,8 @@ permalink: /media/
 | 📊 Operational Plan | "Smart Commutes, Smarter Cities: Operational Plan" | [View Article](https://aspenpolicyacademy.org/wp-content/uploads/Utah-Commutes-Operational-Plan-2025.pdf) |
 | 📝 Executive Summary | "Smart Commutes, Smarter Cities: Executive Summary" | [View Article](https://aspenpolicyacademy.org/wp-content/uploads/Utah-Coyotes-Executive-Summary-2025.pdf) |
 | 🛠️ Traffic Management | "Smart Commutes, Smarter Cities: Traffic Management Tool Information" | [View Article](https://aspenpolicyacademy.org/wp-content/uploads/Utah-Traffic-Management-Tool-2025-Primer.pdf) |
+
+---
 
 ## 📸 Media Gallery
 
@@ -68,6 +66,8 @@ permalink: /media/
   </div>
 </div>
 
+---
+
 ## 📊 Media Highlights by Category
 
 ### 🏛️ Policy & Urban Innovation
@@ -84,6 +84,8 @@ permalink: /media/
 
 ### 🌟 Policy Leadership
 - Spring 2025 Policy Primer Cohort Selection – Aspen Institute
+
+---
 
 ## 🔗 Quick Links
 
