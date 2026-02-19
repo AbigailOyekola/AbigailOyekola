@@ -2,7 +2,7 @@
 
 **Location:** Washington, D.C., USA
 
-**Venue:** Howard University - Department of Electrical Engineering and Computer Science (EECS)
+**Venue:** Department of Electrical Engineering and Computer Science (EECS), Howard University
 
 **Dates:** Fall 2023 to Spring 2024
 
